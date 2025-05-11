@@ -1,0 +1,323 @@
+[
+    {
+        "base_name": "1",
+        "level": "low",
+        "timestamp": "2025-05-11T03:00:57.033421",
+        "faults": [
+            {
+                "filename": "1_flicker_EMI_low.jpg",
+                "type": "flicker",
+                "category": "EMI"
+            },
+            {
+                "filename": "1_color_shift_EMI_low.jpg",
+                "type": "color_shift",
+                "category": "EMI"
+            },
+            {
+                "filename": "1_desaturation_EMI_low.jpg",
+                "type": "desaturation",
+                "category": "EMI"
+            },
+            {
+                "filename": "1_rolling_shutter_skew_EMI_low.jpg",
+                "type": "rolling_shutter_skew",
+                "category": "EMI"
+            },
+            {
+                "filename": "1_salt_pepper_noise_EMI_low.jpg",
+                "type": "salt_pepper_noise",
+                "category": "EMI"
+            },
+            {
+                "filename": "1_blur_Environmental_low.jpg",
+                "type": "blur",
+                "category": "Environmental"
+            },
+            {
+                "filename": "1_brightness_Environmental_low.jpg",
+                "type": "brightness",
+                "category": "Environmental"
+            },
+            {
+                "filename": "1_fog_Environmental_low.jpg",
+                "type": "fog",
+                "category": "Environmental"
+            },
+            {
+                "filename": "1_glare_Environmental_low.jpg",
+                "type": "glare",
+                "category": "Environmental"
+            },
+            {
+                "filename": "1_raindrop_Environmental_low.jpg",
+                "type": "raindrop",
+                "category": "Environmental"
+            },
+            {
+                "filename": "1_lens_dirt_Environmental_low.jpg",
+                "type": "lens_dirt",
+                "category": "Environmental"
+            },
+            {
+                "filename": "1_blackout_Hardware_low.jpg",
+                "type": "blackout",
+                "category": "Hardware"
+            },
+            {
+                "filename": "1_frame_drop_Hardware_low.jpg",
+                "type": "frame_drop",
+                "category": "Hardware"
+            },
+            {
+                "filename": "1_dead_pixels_Hardware_low.jpg",
+                "type": "dead_pixels",
+                "category": "Hardware"
+            },
+            {
+                "filename": "1_hot_pixels_Hardware_low.jpg",
+                "type": "hot_pixels",
+                "category": "Hardware"
+            },
+            {
+                "filename": "1_line_dropout_Hardware_low.jpg",
+                "type": "line_dropout",
+                "category": "Hardware"
+            },
+            {
+                "filename": "1_temporal_lag_AI_Relevant_low.jpg",
+                "type": "temporal_lag",
+                "category": "AI_Relevant"
+            },
+            {
+                "filename": "1_spatial_jitter_AI_Relevant_low.jpg",
+                "type": "spatial_jitter",
+                "category": "AI_Relevant"
+            },
+            {
+                "filename": "1_random_patch_noise_AI_Relevant_low.jpg",
+                "type": "random_patch_noise",
+                "category": "AI_Relevant"
+            },
+            {
+                "filename": "1_warping_AI_Relevant_low.jpg",
+                "type": "warping",
+                "category": "AI_Relevant"
+            }
+        ]
+    },
+    {
+        "base_name": "1",
+        "level": "medium",
+        "timestamp": "2025-05-11T03:00:59.791619",
+        "faults": [
+            {
+                "filename": "1_flicker_EMI_medium.jpg",
+                "type": "flicker",
+                "category": "EMI"
+            },
+            {
+                "filename": "1_color_shift_EMI_medium.jpg",
+                "type": "color_shift",
+                "category": "EMI"
+            },
+            {
+                "filename": "1_desaturation_EMI_medium.jpg",
+                "type": "desaturation",
+                "category": "EMI"
+            },
+            {
+                "filename": "1_rolling_shutter_skew_EMI_medium.jpg",
+                "type": "rolling_shutter_skew",
+                "category": "EMI"
+            },
+            {
+                "filename": "1_salt_pepper_noise_EMI_medium.jpg",
+                "type": "salt_pepper_noise",
+                "category": "EMI"
+            },
+            {
+                "filename": "1_blur_Environmental_medium.jpg",
+                "type": "blur",
+                "category": "Environmental"
+            },
+            {
+                "filename": "1_brightness_Environmental_medium.jpg",
+                "type": "brightness",
+                "category": "Environmental"
+            },
+            {
+                "filename": "1_fog_Environmental_medium.jpg",
+                "type": "fog",
+                "category": "Environmental"
+            },
+            {
+                "filename": "1_glare_Environmental_medium.jpg",
+                "type": "glare",
+                "category": "Environmental"
+            },
+            {
+                "filename": "1_raindrop_Environmental_medium.jpg",
+                "type": "raindrop",
+                "category": "Environmental"
+            },
+            {
+                "filename": "1_lens_dirt_Environmental_medium.jpg",
+                "type": "lens_dirt",
+                "category": "Environmental"
+            },
+            {
+                "filename": "1_blackout_Hardware_medium.jpg",
+                "type": "blackout",
+                "category": "Hardware"
+            },
+            {
+                "filename": "1_frame_drop_Hardware_medium.jpg",
+                "type": "frame_drop",
+                "category": "Hardware"
+            },
+            {
+                "filename": "1_dead_pixels_Hardware_medium.jpg",
+                "type": "dead_pixels",
+                "category": "Hardware"
+            },
+            {
+                "filename": "1_hot_pixels_Hardware_medium.jpg",
+                "type": "hot_pixels",
+                "category": "Hardware"
+            },
+            {
+                "filename": "1_line_dropout_Hardware_medium.jpg",
+                "type": "line_dropout",
+                "category": "Hardware"
+            },
+            {
+                "filename": "1_temporal_lag_AI_Relevant_medium.jpg",
+                "type": "temporal_lag",
+                "category": "AI_Relevant"
+            },
+            {
+                "filename": "1_spatial_jitter_AI_Relevant_medium.jpg",
+                "type": "spatial_jitter",
+                "category": "AI_Relevant"
+            },
+            {
+                "filename": "1_random_patch_noise_AI_Relevant_medium.jpg",
+                "type": "random_patch_noise",
+                "category": "AI_Relevant"
+            },
+            {
+                "filename": "1_warping_AI_Relevant_medium.jpg",
+                "type": "warping",
+                "category": "AI_Relevant"
+            }
+        ]
+    },
+    {
+        "base_name": "1",
+        "level": "extreme",
+        "timestamp": "2025-05-11T03:01:02.594104",
+        "faults": [
+            {
+                "filename": "1_flicker_EMI_extreme.jpg",
+                "type": "flicker",
+                "category": "EMI"
+            },
+            {
+                "filename": "1_color_shift_EMI_extreme.jpg",
+                "type": "color_shift",
+                "category": "EMI"
+            },
+            {
+                "filename": "1_desaturation_EMI_extreme.jpg",
+                "type": "desaturation",
+                "category": "EMI"
+            },
+            {
+                "filename": "1_rolling_shutter_skew_EMI_extreme.jpg",
+                "type": "rolling_shutter_skew",
+                "category": "EMI"
+            },
+            {
+                "filename": "1_salt_pepper_noise_EMI_extreme.jpg",
+                "type": "salt_pepper_noise",
+                "category": "EMI"
+            },
+            {
+                "filename": "1_blur_Environmental_extreme.jpg",
+                "type": "blur",
+                "category": "Environmental"
+            },
+            {
+                "filename": "1_brightness_Environmental_extreme.jpg",
+                "type": "brightness",
+                "category": "Environmental"
+            },
+            {
+                "filename": "1_fog_Environmental_extreme.jpg",
+                "type": "fog",
+                "category": "Environmental"
+            },
+            {
+                "filename": "1_glare_Environmental_extreme.jpg",
+                "type": "glare",
+                "category": "Environmental"
+            },
+            {
+                "filename": "1_raindrop_Environmental_extreme.jpg",
+                "type": "raindrop",
+                "category": "Environmental"
+            },
+            {
+                "filename": "1_lens_dirt_Environmental_extreme.jpg",
+                "type": "lens_dirt",
+                "category": "Environmental"
+            },
+            {
+                "filename": "1_blackout_Hardware_extreme.jpg",
+                "type": "blackout",
+                "category": "Hardware"
+            },
+            {
+                "filename": "1_frame_drop_Hardware_extreme.jpg",
+                "type": "frame_drop",
+                "category": "Hardware"
+            },
+            {
+                "filename": "1_dead_pixels_Hardware_extreme.jpg",
+                "type": "dead_pixels",
+                "category": "Hardware"
+            },
+            {
+                "filename": "1_hot_pixels_Hardware_extreme.jpg",
+                "type": "hot_pixels",
+                "category": "Hardware"
+            },
+            {
+                "filename": "1_line_dropout_Hardware_extreme.jpg",
+                "type": "line_dropout",
+                "category": "Hardware"
+            },
+            {
+                "filename": "1_temporal_lag_AI_Relevant_extreme.jpg",
+                "type": "temporal_lag",
+                "category": "AI_Relevant"
+            },
+            {
+                "filename": "1_spatial_jitter_AI_Relevant_extreme.jpg",
+                "type": "spatial_jitter",
+                "category": "AI_Relevant"
+            },
+            {
+                "filename": "1_random_patch_noise_AI_Relevant_extreme.jpg",
+                "type": "random_patch_noise",
+                "category": "AI_Relevant"
+            },
+            {
+                "filename": "1_warping_AI_Relevant_extreme.jpg",
+                "type": "warping",
+                "category": "AI_Relevant"
+            }
+        ]
+    }
+]
